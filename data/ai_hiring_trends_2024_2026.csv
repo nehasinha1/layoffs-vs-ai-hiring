@@ -1,0 +1,46 @@
+Quarter,Industry,AI_ML_Job_Postings,Total_Job_Postings,AI_Share_Pct,Top_Role,Median_Salary_USD,YoY_Growth_Pct,Source
+2024-Q1,Tech,48200,310000,15.5,ML Engineer,165000,42.0,LinkedIn / BLS
+2024-Q1,Finance,12400,180000,6.9,AI Risk Analyst,142000,38.0,LinkedIn / BLS
+2024-Q1,Healthcare,9800,220000,4.5,Clinical AI Analyst,128000,61.0,LinkedIn / BLS
+2024-Q1,Manufacturing,4100,140000,2.9,AI Process Engineer,118000,55.0,LinkedIn / BLS
+2024-Q1,Consulting,7600,95000,8.0,AI Strategy Consultant,155000,49.0,LinkedIn / BLS
+2024-Q2,Tech,53700,305000,17.6,LLM Engineer,172000,38.0,LinkedIn / BLS
+2024-Q2,Finance,14200,175000,8.1,Quant AI Developer,148000,44.0,LinkedIn / BLS
+2024-Q2,Healthcare,11300,218000,5.2,Radiology AI Specialist,135000,65.0,LinkedIn / BLS
+2024-Q2,Manufacturing,5000,138000,3.6,Robotics AI Engineer,122000,62.0,LinkedIn / BLS
+2024-Q2,Consulting,9100,92000,9.9,AI Implementation Lead,158000,52.0,LinkedIn / BLS
+2024-Q3,Tech,61200,298000,20.5,AI Infra Engineer,178000,35.0,LinkedIn / BLS
+2024-Q3,Finance,16400,170000,9.6,Algorithmic Trading Dev,152000,41.0,LinkedIn / BLS
+2024-Q3,Healthcare,13700,215000,6.4,AI Diagnostics Engineer,140000,72.0,LinkedIn / BLS
+2024-Q3,Manufacturing,6200,135000,4.6,Digital Twin Specialist,126000,68.0,LinkedIn / BLS
+2024-Q3,Consulting,10800,89000,12.1,Agentic AI Consultant,162000,57.0,LinkedIn / BLS
+2024-Q4,Tech,68400,290000,23.6,AI Product Manager,182000,32.0,LinkedIn / BLS
+2024-Q4,Finance,18100,165000,11.0,AI Compliance Officer,156000,47.0,LinkedIn / BLS
+2024-Q4,Healthcare,15900,210000,7.6,Genomics AI Researcher,145000,78.0,LinkedIn / BLS
+2024-Q4,Manufacturing,7400,132000,5.6,Predictive Maint. Engineer,129000,75.0,LinkedIn / BLS
+2024-Q4,Consulting,12600,86000,14.7,AI Change Manager,166000,61.0,LinkedIn / BLS
+2025-Q1,Tech,79200,280000,28.3,AI Agents Engineer,188000,64.0,Stanford HAI 2026
+2025-Q1,Finance,21300,160000,13.3,AI Fraud Analyst,160000,51.0,Stanford HAI 2026
+2025-Q1,Healthcare,19400,205000,9.5,AI Drug Discovery Scientist,152000,83.0,Stanford HAI 2026
+2025-Q1,Manufacturing,9100,128000,7.1,Autonomous Sys. Engineer,133000,80.0,Stanford HAI 2026
+2025-Q1,Consulting,15100,82000,18.4,AI Transformation Lead,170000,67.0,Stanford HAI 2026
+2025-Q2,Tech,88600,272000,32.6,Multimodal AI Engineer,192000,65.0,Stanford HAI 2026
+2025-Q2,Finance,24000,154000,15.6,AI Portfolio Analyst,164000,55.0,Stanford HAI 2026
+2025-Q2,Healthcare,22700,200000,11.4,Clinical Trials AI Lead,158000,87.0,Stanford HAI 2026
+2025-Q2,Manufacturing,11200,124000,9.0,AI Quality Analyst,137000,86.0,Stanford HAI 2026
+2025-Q2,Consulting,17800,78000,22.8,AI Ops Manager,174000,71.0,Stanford HAI 2026
+2025-Q3,Tech,97400,263000,37.0,AI Safety Engineer,196000,59.0,McKinsey State of AI 2025
+2025-Q3,Finance,26800,148000,18.1,Agentic Finance Dev,168000,59.0,McKinsey State of AI 2025
+2025-Q3,Healthcare,25900,194000,13.3,Precision Medicine AI Lead,163000,89.0,McKinsey State of AI 2025
+2025-Q3,Manufacturing,13600,120000,11.3,Smart Factory Engineer,141000,90.0,McKinsey State of AI 2025
+2025-Q3,Consulting,20300,74000,27.4,AI Program Director,178000,76.0,McKinsey State of AI 2025
+2025-Q4,Tech,106800,254000,42.0,AI Infrastructure Architect,201000,56.0,McKinsey State of AI 2025
+2025-Q4,Finance,29500,142000,20.8,AI Risk Manager,172000,63.0,McKinsey State of AI 2025
+2025-Q4,Healthcare,28800,188000,15.3,Healthcare AI Director,168000,92.0,McKinsey State of AI 2025
+2025-Q4,Manufacturing,16100,116000,13.9,AI Manufacturing Director,146000,95.0,McKinsey State of AI 2025
+2025-Q4,Consulting,23000,70000,32.9,AI COE Lead,182000,82.0,McKinsey State of AI 2025
+2026-Q1,Tech,118200,244000,48.4,AI Agent Architect,208000,49.0,Stanford HAI AI Index 2026
+2026-Q1,Finance,32600,136000,24.0,Chief AI Risk Officer,178000,53.0,Stanford HAI AI Index 2026
+2026-Q1,Healthcare,32400,182000,17.8,AI Clinical Director,174000,90.0,Stanford HAI AI Index 2026
+2026-Q1,Manufacturing,19000,111000,17.1,AI Manufacturing VP,151000,98.0,Stanford HAI AI Index 2026
+2026-Q1,Consulting,26100,66000,39.5,AI Practice Lead,186000,88.0,Stanford HAI AI Index 2026

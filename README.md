@@ -1,61 +1,71 @@
 # Layoffs vs AI Hiring: Are Companies Cutting People or Replacing Them?
 
-**Tools:** R · SQL · Power BI · Kaggle datasets
+**Tools:** R · SQL · Tableau · Kaggle datasets
 
 ## Overview
 
-Between 2022 and 2024, the tech industry saw over 400,000 layoffs — while simultaneously posting record numbers of AI and ML job openings. This project investigates whether AI adoption is driving workforce reduction, creating new roles, or both — and which industries are most exposed.
+Between 2024 and 2026, the tech industry has shed hundreds of thousands of jobs — while simultaneously posting record numbers of AI and ML job openings. This project investigates whether AI adoption is driving workforce reduction, creating new roles, or both — and which industries are most exposed.
 
 ## Key Questions
 
-- Do companies with high AI investment correlate with higher layoff rates?
+- Do companies citing AI as a reason for layoffs correlate with higher AI job posting volume?
 - Which job categories are shrinking vs. growing as AI scales?
 - Is there a lag between layoffs and AI hiring that signals replacement vs. retraining?
 
 ## Data Sources
 
-- [Kaggle: Tech Layoffs 2022–2024](https://www.kaggle.com/datasets/swaptr/layoffs-2022) — company, headcount, industry, date
-- [Kaggle: AI/ML Job Postings](https://www.kaggle.com/datasets/ravindrasinghrana/job-description-dataset) — role titles, required skills, company size
-- Bureau of Labor Statistics (BLS) JOLTS data — sector-level hiring and separation rates
+| Dataset | Source | Last Updated |
+|---|---|---|
+| `layoffs_2024_2026.csv` | [Kaggle: Tech Layoffs & Hiring Trends 2025–2026](https://www.kaggle.com/datasets/ahsanneural/tech-layoffs-and-hiring-trends-2025-2026) + [AI Job Cuts Tracker 2026](https://www.kaggle.com/datasets/alitaqishah/tech-layoffs-2026-ai-job-cuts-tracker) | April 2026 |
+| `ai_hiring_trends_2024_2026.csv` | [Stanford HAI AI Index 2026](https://hai.stanford.edu/ai-index/2026-ai-index-report) · LinkedIn Economic Graph · BLS JOLTS | April 2026 |
+
+### Schema: `layoffs_2024_2026.csv`
+`Company` · `Location` · `Industry` · `Laid_Off_Count` · `Date` · `Funds_Raised` · `Stage` · `Country` · `Percentage` · `AI_Cited_Reason`
+
+### Schema: `ai_hiring_trends_2024_2026.csv`
+`Quarter` · `Industry` · `AI_ML_Job_Postings` · `Total_Job_Postings` · `AI_Share_Pct` · `Top_Role` · `Median_Salary_USD` · `YoY_Growth_Pct` · `Source`
 
 ## Methodology
 
 ```
-Raw CSVs (Kaggle + BLS)
+Kaggle layoffs CSVs + Stanford HAI + BLS JOLTS data
     │
     ▼
-SQL (data cleaning, joins, aggregation by industry/quarter)
+SQL (clean, join by industry/quarter, calculate net headcount delta)
     │
     ▼
-R (correlation analysis, trend modeling, ggplot2 visualizations)
+R (correlation analysis: AI_Cited_Reason flag vs. AI hiring volume; ggplot2 charts)
     │
     ▼
-Power BI (interactive dashboard — filter by industry, company size, time period)
+Tableau (interactive dashboard: filter by industry, company size, time period)
 ```
 
-## Findings Summary
+## Key Findings (2024–2026 Data)
 
-- **Layoffs and AI hiring peaked simultaneously in Q1 2023**, concentrated in software and finance
-- Companies that announced AI investments in earnings calls were **2.3x more likely** to also announce layoffs within the same quarter
-- AI/ML roles are growing, but at ~30% of the volume of eliminated roles — net job loss in most sectors
-- **Healthcare and manufacturing** show the opposite pattern: AI investment correlated with workforce expansion
+- **50 companies tracked** across tech, finance, healthcare, manufacturing, and consulting
+- **AI cited as reason** in 24 of 50 layoff events — concentrated in tech and consulting
+- **AI/ML job postings** grew from 15.5% → 48.4% share of all tech postings (2024 Q1 → 2026 Q1)
+- **Median AI role salary** reached $208,000 in tech by 2026 Q1 — highest across all industries
+- **Healthcare** shows the clearest net positive: AI hiring volume exceeds layoff volume every quarter
+- **Manufacturing** shows rapid AI hiring growth (98% YoY in 2025 Q4) with minimal layoff volume
+- **Net loser: tech sector** — layoff volumes from large firms outpace AI hiring numbers quarter over quarter
 
 ## Files
 
 | File | Description |
 |---|---|
-| `data/layoffs_cleaned.csv` | Cleaned layoff dataset (company, date, headcount, industry) |
-| `data/ai_jobs_cleaned.csv` | AI/ML job postings aggregated by quarter and sector |
-| `sql/clean_and_join.sql` | SQL used for data prep and cross-dataset joins |
-| `r/analysis.R` | R script: correlation analysis + ggplot2 charts |
-| `r/charts/` | Exported chart PNGs |
-| `powerbi/layoffs_vs_hiring.pbix` | Power BI dashboard file |
-| `powerbi/dashboard_screenshot.png` | Dashboard preview |
-
-## Dashboard Preview
-
-![Dashboard](powerbi/dashboard_screenshot.png)
+| `data/layoffs_2024_2026.csv` | 50 layoff events, 2024–2026, with AI citation flag |
+| `data/ai_hiring_trends_2024_2026.csv` | Quarterly AI job posting trends by industry, 2024 Q1–2026 Q1 |
+| `sql/clean_and_join.sql` | SQL: cleaning, joining, and net headcount aggregation |
+| `r/analysis.R` | R: correlation analysis and ggplot2 visualizations |
 
 ---
+
+**Sources:**
+- [Kaggle: Tech Layoffs & Hiring Trends 2025–2026](https://www.kaggle.com/datasets/ahsanneural/tech-layoffs-and-hiring-trends-2025-2026)
+- [Kaggle: Tech Layoffs 2026 AI Job Cuts Tracker](https://www.kaggle.com/datasets/alitaqishah/tech-layoffs-2026-ai-job-cuts-tracker)
+- [Stanford HAI AI Index Report 2026](https://hai.stanford.edu/ai-index/2026-ai-index-report)
+- [McKinsey State of AI 2025](https://www.mckinsey.com/capabilities/quantumblack/our-insights/the-state-of-ai)
+- [BLS Job Openings and Labor Turnover Survey (JOLTS)](https://www.bls.gov/jlt/)
 
 *Analysis by Neha Sinha · [GitHub](https://github.com/nehasinha1)*

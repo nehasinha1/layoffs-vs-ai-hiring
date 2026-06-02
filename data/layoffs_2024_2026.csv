@@ -1,0 +1,51 @@
+Company,Location,Industry,Laid_Off_Count,Date,Funds_Raised,Stage,Country,Percentage,AI_Cited_Reason
+Microsoft,Redmond,Tech,1900,2025-01-13,,Public,United States,0.01,Yes
+Google,SF Bay Area,Tech,1000,2025-01-14,,Public,United States,0.01,Yes
+SAP,Walldorf,Tech,10000,2025-01-23,,Public,Germany,0.08,Yes
+Workday,SF Bay Area,Tech,1750,2025-01-28,10600.0,Public,United States,0.08,Yes
+Okta,SF Bay Area,Tech,180,2025-02-03,6000.0,Public,United States,0.06,No
+Intel,Santa Clara,Semiconductors,15000,2025-02-28,,Public,United States,0.15,Yes
+Duolingo,Pittsburgh,EdTech,10,2025-01-10,183.0,Public,United States,0.10,Yes
+Chegg,Santa Clara,EdTech,441,2025-01-22,1200.0,Public,United States,0.21,Yes
+IBM,Armonk,Tech,9000,2025-03-01,,Public,United States,0.05,Yes
+Accenture,New York City,Consulting,50000,2025-03-20,,Public,United States,0.05,Yes
+Dell,Round Rock,Tech,12500,2025-02-10,,Public,United States,0.10,Yes
+Cisco,San Jose,Tech,6000,2025-02-20,,Public,United States,0.07,Yes
+Stellantis,Detroit,Automotive,2450,2025-02-25,,Public,United States,0.03,No
+Boeing,Chicago,Aerospace,17000,2025-03-15,,Public,United States,0.10,No
+Payoneer,New York City,Fintech,260,2025-02-18,630.0,Series E,United States,0.15,No
+Lyft,SF Bay Area,Transport,300,2025-03-26,5000.0,Public,United States,0.07,No
+Snap,Los Angeles,Social Media,500,2025-02-06,,Public,United States,0.10,No
+Macy's,New York City,Retail,2350,2025-02-27,,Public,United States,0.03,No
+Citi,New York City,Finance,20000,2025-04-01,,Public,United States,0.04,No
+Dropbox,SF Bay Area,Tech,528,2025-04-15,1700.0,Public,United States,0.20,Yes
+Klarna,Stockholm,Fintech,700,2025-05-01,4000.0,Pre-IPO,Sweden,0.22,Yes
+UPS,Atlanta,Logistics,12000,2025-05-12,,Public,United States,0.04,No
+LinkedIn,Sunnyvale,Tech,650,2025-05-16,,Public,United States,0.06,Yes
+Unity Technologies,SF Bay Area,Tech,1800,2025-06-04,3000.0,Public,United States,0.25,Yes
+Salesforce,SF Bay Area,Tech,1000,2025-06-10,,Public,United States,0.01,Yes
+Northrop Grumman,Falls Church,Aerospace,1000,2025-06-18,,Public,United States,0.02,No
+Tesla,Austin,Automotive,6000,2025-07-01,,Public,United States,0.07,No
+Warner Bros Discovery,New York City,Media,1000,2025-07-14,,Public,United States,0.03,Yes
+Hasbro,Pawtucket,Consumer,1100,2025-08-06,,Public,United States,0.20,No
+Indeed,Austin,Tech,1000,2025-08-19,800.0,Public,United States,0.08,Yes
+SiriusXM,New York City,Media,600,2025-09-03,,Public,United States,0.10,No
+Qualcomm,San Diego,Semiconductors,1400,2025-09-17,,Public,United States,0.05,Yes
+Nokia,Espoo,Tech,14000,2025-10-01,,Public,Finland,0.16,Yes
+John Deere,Moline,Manufacturing,900,2025-10-15,,Public,United States,0.04,Yes
+Paramount,New York City,Media,2000,2025-11-05,,Public,United States,0.15,No
+Wayfair,Boston,E-commerce,1650,2025-11-18,4400.0,Public,United States,0.13,Yes
+23andMe,South San Francisco,Biotech,75,2025-12-01,1000.0,Public,United States,0.35,No
+HP,Palo Alto,Tech,6000,2025-12-10,,Public,United States,0.07,Yes
+Sony,Tokyo,Consumer Electronics,900,2025-12-15,,Public,Japan,0.01,No
+GitHub,SF Bay Area,Tech,250,2026-01-08,,Public,United States,0.10,Yes
+Twilio,SF Bay Area,Tech,340,2026-01-22,2300.0,Public,United States,0.11,Yes
+Meta,Menlo Park,Tech,3600,2026-02-01,,Public,United States,0.05,Yes
+ByteDance,Beijing,Tech,7000,2026-02-12,,Private,China,0.07,Yes
+Shopify,Ottawa,E-commerce,800,2026-02-20,1600.0,Public,Canada,0.10,Yes
+Anthropic,SF Bay Area,AI,,2026-03-05,7300.0,Series E,United States,0.00,No
+OpenAI,SF Bay Area,AI,150,2026-03-19,17500.0,Private,United States,0.04,No
+Nvidia,Santa Clara,Semiconductors,500,2026-04-02,,Public,United States,0.01,No
+Amazon,Seattle,Tech,14000,2026-04-14,,Public,United States,0.04,Yes
+Zoom,SF Bay Area,Tech,1300,2026-05-07,146.0,Public,United States,0.15,Yes
+Oracle,Austin,Tech,4000,2026-05-20,,Public,United States,0.04,Yes
