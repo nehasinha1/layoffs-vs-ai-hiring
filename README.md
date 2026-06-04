@@ -2,7 +2,10 @@
 
 **Tools:** R · SQL · Tableau · Kaggle datasets
 
-📊 **[View Interactive Dashboards on Tableau Public (Layoffs Analysis + AI Hiring Analysis)](https://public.tableau.com/app/profile/neha.sinha5021/viz/LayoffsvsAIHiringFullAnalysis20242026/LayoffsAnalysis)**
+## 📊 Interactive Dashboards
+
+- [Layoffs Analysis Dashboard](https://public.tableau.com/app/profile/neha.sinha5021/viz/LayoffsAnalysis2024-2026/LayoffsAnalysis2024-2026)
+- [AI Hiring Analysis Dashboard](https://public.tableau.com/app/profile/neha.sinha5021/viz/AIHiringAnalysis2024-2026/AIHiringAnalysis2024-2026)
 
 ## Overview
 
