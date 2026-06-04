@@ -2,6 +2,8 @@
 
 **Tools:** R · SQL · Tableau · Kaggle datasets
 
+📊 **[View Interactive Dashboard on Tableau Public](https://public.tableau.com/app/profile/neha.sinha5021/viz/LayoffsvsAIHiringIndustryGeographicAnalysis20242026/Dashboard1)**
+
 ## Overview
 
 Between 2024 and 2026, the tech industry has shed hundreds of thousands of jobs — while simultaneously posting record numbers of AI and ML job openings. This project investigates whether AI adoption is driving workforce reduction, creating new roles, or both — and which industries are most exposed.
