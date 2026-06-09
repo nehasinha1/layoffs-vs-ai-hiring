@@ -32,6 +32,11 @@ R (correlation analysis: AI_Cited_Reason flag vs. AI hiring volume; ggplot2 char
 Tableau (interactive dashboard: filter by industry, company size, time period)
 ```
 
+## 📊 Interactive Dashboards
+
+- 📊 [Layoffs Analysis Dashboard](https://public.tableau.com/app/profile/neha.sinha5021/viz/LayoffsAnalysis2024-2026/LayoffsAnalysis2024-2026)
+- 📊 [AI Hiring Analysis Dashboard](https://public.tableau.com/app/profile/neha.sinha5021/viz/AIHiringAnalysis2024-2026/AIHiringAnalysis2024-2026)
+
 ## Key Findings (2024–2026 Data)
 
 - **50 companies tracked** across tech, finance, healthcare, manufacturing, and consulting
@@ -41,11 +46,6 @@ Tableau (interactive dashboard: filter by industry, company size, time period)
 - **Healthcare** shows the clearest net positive: AI hiring volume exceeds layoff volume every quarter
 - **Manufacturing** shows rapid AI hiring growth (98% YoY in 2025 Q4) with minimal layoff volume
 - **Net loser: tech sector** - layoff volumes from large firms outpace AI hiring numbers quarter over quarter
-
-## 📊 Interactive Dashboards
-
-- 📊 [Layoffs Analysis Dashboard](https://public.tableau.com/app/profile/neha.sinha5021/viz/LayoffsAnalysis2024-2026/LayoffsAnalysis2024-2026)
-- 📊 [AI Hiring Analysis Dashboard](https://public.tableau.com/app/profile/neha.sinha5021/viz/AIHiringAnalysis2024-2026/AIHiringAnalysis2024-2026)
 
 ## Files
 
