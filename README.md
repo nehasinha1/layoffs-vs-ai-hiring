@@ -7,7 +7,9 @@
 - 📊 [Layoffs Analysis Dashboard](https://public.tableau.com/app/profile/neha.sinha5021/viz/LayoffsAnalysis2024-2026/LayoffsAnalysis2024-2026)
 - 📊 [AI Hiring Analysis Dashboard](https://public.tableau.com/app/profile/neha.sinha5021/viz/AIHiringAnalysis2024-2026/AIHiringAnalysis2024-2026)
 
-[![Dashboard Preview](screenshots/dashboard_preview.png)](https://public.tableau.com/app/profile/neha.sinha5021/viz/LayoffsvsAIHiringIndustryGeographicAnalysis20242026/Dashboard1)
+[![Layoffs Dashboard Preview](screenshots/dashboard_preview.png)](https://public.tableau.com/app/profile/neha.sinha5021/viz/LayoffsvsAIHiringIndustryGeographicAnalysis20242026/Dashboard1)
+
+[![AI Hiring Dashboard Preview](screenshots/ai_hiring_dashboard_preview.png)](https://public.tableau.com/app/profile/neha.sinha5021/viz/AIHiringAnalysis2024-2026/AIHiringAnalysis2024-2026)
 
 ## Overview
 
