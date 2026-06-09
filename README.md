@@ -51,8 +51,8 @@ Tableau (interactive dashboard: filter by industry, company size, time period)
 
 | File | Description |
 |---|---|
-| [`data/layoffs_2024_2026.csv`](data/layoffs_2024_2026.csv) | 50 layoff events, 2024–2026, with AI citation flag |
-| [`data/ai_hiring_trends_2024_2026.csv`](data/ai_hiring_trends_2024_2026.csv) | Quarterly AI job posting trends by industry, 2024 Q1–2026 Q1 |
+| [`data/layoffs_2024_2026.csv`](data/layoffs_2024_2026.csv) | Layoff events 2024–2026 sourced from Kaggle; includes company, industry, headcount, and AI citation flag |
+| [`data/ai_hiring_trends_2024_2026.csv`](data/ai_hiring_trends_2024_2026.csv) | Quarterly AI/ML job posting trends by industry, compiled from Stanford HAI, LinkedIn Economic Graph, and BLS JOLTS |
 | [`sql/clean_and_join.sql`](sql/clean_and_join.sql) | SQL: cleaning, joining, and net headcount aggregation |
 | [`r/analysis.R`](r/analysis.R) | R: correlation analysis and ggplot2 visualizations |
 
