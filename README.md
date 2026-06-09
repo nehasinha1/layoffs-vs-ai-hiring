@@ -34,8 +34,8 @@ Tableau (interactive dashboard: filter by industry, company size, time period)
 
 ## 📊 Tableau Dashboards
 
-- 📊 [Layoffs Analysis Dashboard](https://public.tableau.com/app/profile/neha.sinha5021/viz/LayoffsAnalysis2024-2026/LayoffsAnalysis2024-2026)
-- 📊 [AI Hiring Analysis Dashboard](https://public.tableau.com/app/profile/neha.sinha5021/viz/AIHiringAnalysis2024-2026/AIHiringAnalysis2024-2026)
+- 📊 [Layoffs Analysis 2024-2026 Dashboard](https://public.tableau.com/app/profile/neha.sinha5021/viz/LayoffsAnalysis2024-2026/LayoffsAnalysis2024-2026)
+- 📊 [AI Hiring Analysis 2024-2026 Dashboard](https://public.tableau.com/app/profile/neha.sinha5021/viz/AIHiringAnalysis2024-2026/AIHiringAnalysis2024-2026)
 
 ## Files
 
