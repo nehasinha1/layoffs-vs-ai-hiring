@@ -56,13 +56,3 @@ Tableau (interactive dashboard: filter by industry, company size, time period)
 | [`sql/clean_and_join.sql`](sql/clean_and_join.sql) | SQL: cleaning, joining, and net headcount aggregation |
 | [`r/analysis.R`](r/analysis.R) | R: correlation analysis and ggplot2 visualizations |
 
----
-
-**Sources:**
-- [Kaggle: Tech Layoffs & Hiring Trends 2025–2026](https://www.kaggle.com/datasets/ahsanneural/tech-layoffs-and-hiring-trends-2025-2026)
-- [Kaggle: Tech Layoffs 2026 AI Job Cuts Tracker](https://www.kaggle.com/datasets/alitaqishah/tech-layoffs-2026-ai-job-cuts-tracker)
-- [Stanford HAI AI Index Report 2026](https://hai.stanford.edu/ai-index/2026-ai-index-report)
-- [McKinsey State of AI 2025](https://www.mckinsey.com/capabilities/quantumblack/our-insights/the-state-of-ai)
-- [BLS Job Openings and Labor Turnover Survey (JOLTS)](https://www.bls.gov/jlt/)
-
-*Analysis by Neha Sinha · [GitHub](https://github.com/nehasinha1)*
