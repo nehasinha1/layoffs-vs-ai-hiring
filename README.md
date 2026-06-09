@@ -40,12 +40,12 @@ Tableau (interactive dashboard: filter by industry, company size, time period)
 ## Key Findings (2024–2026 Data)
 
 - **50 companies tracked** across tech, finance, healthcare, manufacturing, and consulting
-- **AI cited as reason** in 24 of 50 layoff events — concentrated in tech and consulting
-- **AI/ML job postings** grew from 15.5% → 48.4% share of all tech postings (2024 Q1 → 2026 Q1)
-- **Median AI role salary** reached $208,000 in tech by 2026 Q1 — highest across all industries
+- **AI cited as reason** in 24 of 50 layoff events - concentrated in tech and consulting
+- **AI/ML job postings** grew from 15.5% to 48.4% share of all tech postings (2024 Q1 - 2026 Q1)
+- **Median AI role salary** reached $208,000 in tech by 2026 Q1 - highest across all industries
 - **Healthcare** shows the clearest net positive: AI hiring volume exceeds layoff volume every quarter
 - **Manufacturing** shows rapid AI hiring growth (98% YoY in 2025 Q4) with minimal layoff volume
-- **Net loser: tech sector** — layoff volumes from large firms outpace AI hiring numbers quarter over quarter
+- **Net loser: tech sector** - layoff volumes from large firms outpace AI hiring numbers quarter over quarter
 
 ## Files
 
