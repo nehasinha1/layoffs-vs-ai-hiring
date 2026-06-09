@@ -4,11 +4,6 @@
 
 > **TL;DR:** Between 2024–2026, companies across Tech, Consulting and Finance simultaneously cut 236,000+ jobs while AI job postings grew 46%. The data reveals a clear industry split: Tech leads both layoffs and AI hiring, suggesting replacement over retraining. This project investigates whether AI adoption is driving workforce reduction or creating new roles.
 
-## 📊 Interactive Dashboards
-
-- 📊 [Layoffs Analysis Dashboard](https://public.tableau.com/app/profile/neha.sinha5021/viz/LayoffsAnalysis2024-2026/LayoffsAnalysis2024-2026)
-- 📊 [AI Hiring Analysis Dashboard](https://public.tableau.com/app/profile/neha.sinha5021/viz/AIHiringAnalysis2024-2026/AIHiringAnalysis2024-2026)
-
 ## Key Questions
 
 - Do companies citing AI as a reason for layoffs correlate with higher AI job posting volume?
@@ -46,6 +41,11 @@ Tableau (interactive dashboard: filter by industry, company size, time period)
 - **Healthcare** shows the clearest net positive: AI hiring volume exceeds layoff volume every quarter
 - **Manufacturing** shows rapid AI hiring growth (98% YoY in 2025 Q4) with minimal layoff volume
 - **Net loser: tech sector** - layoff volumes from large firms outpace AI hiring numbers quarter over quarter
+
+## 📊 Interactive Dashboards
+
+- 📊 [Layoffs Analysis Dashboard](https://public.tableau.com/app/profile/neha.sinha5021/viz/LayoffsAnalysis2024-2026/LayoffsAnalysis2024-2026)
+- 📊 [AI Hiring Analysis Dashboard](https://public.tableau.com/app/profile/neha.sinha5021/viz/AIHiringAnalysis2024-2026/AIHiringAnalysis2024-2026)
 
 ## Files
 
