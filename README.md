@@ -2,6 +2,8 @@
 
 **Tools:** R · SQL · Tableau · Kaggle datasets
 
+> **TL;DR:** Between 2024–2026, companies across Tech, Consulting and Finance simultaneously cut 236,000+ jobs while AI job postings grew 46%. The data reveals a clear industry split — Tech leads both layoffs and AI hiring, suggesting replacement over retraining. This project investigates whether AI adoption is driving workforce reduction or creating new roles.
+
 ## 📊 Interactive Dashboards
 
 - 📊 [Layoffs Analysis Dashboard](https://public.tableau.com/app/profile/neha.sinha5021/viz/LayoffsAnalysis2024-2026/LayoffsAnalysis2024-2026)
