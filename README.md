@@ -22,7 +22,7 @@ Between 2024 and 2026, the tech industry has shed hundreds of thousands of jobs 
 | Dataset | Source | Last Updated |
 |---|---|---|
 | [`layoffs_2024_2026.csv`](https://github.com/nehasinha1/layoffs-vs-ai-hiring/blob/main/data/layoffs_2024_2026.csv) | [Kaggle: Tech Layoffs & Hiring Trends 2025–2026](https://www.kaggle.com/datasets/ahsanneural/tech-layoffs-and-hiring-trends-2025-2026) + [AI Job Cuts Tracker 2026](https://www.kaggle.com/datasets/alitaqishah/tech-layoffs-2026-ai-job-cuts-tracker) | April 2026 |
-| [`ai_hiring_trends_2024_2026.csv`](https://github.com/nehasinha1/layoffs-vs-ai-hiring/blob/main/data/ai_hiring_trends_2024_2026.csv) | [Stanford HAI AI Index 2026](https://hai.stanford.edu/ai-index/2026-ai-index-report) · LinkedIn Economic Graph · BLS JOLTS | April 2026 |
+| [`ai_hiring_trends_2024_2026.csv`](https://github.com/nehasinha1/layoffs-vs-ai-hiring/blob/main/data/ai_hiring_trends_2024_2026.csv) | [Stanford HAI AI Index 2026](https://hai.stanford.edu/ai-index/2026-ai-index-report) · [LinkedIn Economic Graph](https://economicgraph.linkedin.com/) · [BLS JOLTS](https://www.bls.gov/jlt/) | April 2026 |
 
 ### Schema: `layoffs_2024_2026.csv`
 `Company` · `Location` · `Industry` · `Laid_Off_Count` · `Date` · `Funds_Raised` · `Stage` · `Country` · `Percentage` · `AI_Cited_Reason`
