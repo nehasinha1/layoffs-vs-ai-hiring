@@ -32,7 +32,7 @@ R (correlation analysis: AI_Cited_Reason flag vs. AI hiring volume; ggplot2 char
 Tableau (interactive dashboard: filter by industry, company size, time period)
 ```
 
-## 📊 Interactive Dashboards
+## 📊 Tableau Dashboards
 
 - 📊 [Layoffs Analysis Dashboard](https://public.tableau.com/app/profile/neha.sinha5021/viz/LayoffsAnalysis2024-2026/LayoffsAnalysis2024-2026)
 - 📊 [AI Hiring Analysis Dashboard](https://public.tableau.com/app/profile/neha.sinha5021/viz/AIHiringAnalysis2024-2026/AIHiringAnalysis2024-2026)
